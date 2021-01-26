@@ -12,3 +12,17 @@ C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\D
 C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Debug\Discord Cache Backup.csproj.CopyComplete
 C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Debug\Newtonsoft.Json.dll
 C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\bin\Debug\Discord Cache Backup.exe.config
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\bin\Debug\Discord Cache Backup.exe
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\bin\Debug\Discord Cache Backup.pdb
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\bin\Debug\MaterialSkin.dll
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord Cache Backup.csprojAssemblyReference.cache
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord_Cache_Backup.Form1.resources
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord_Cache_Backup.Properties.Resources.resources
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord Cache Backup.csproj.GenerateResource.cache
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord Cache Backup.csproj.CoreCompileInputs.cache
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord Cache Backup.csproj.CopyComplete
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord Cache Backup.exe
+C:\Users\smashie420\Source\Repos\smashie420\ReCache\Discord Cache Backup\obj\Debug\Discord Cache Backup.pdb
