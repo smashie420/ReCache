@@ -1,0 +1,14 @@
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Release\Discord Cache Backup.exe.config
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Release\Discord Cache Backup.exe
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Release\Discord Cache Backup.pdb
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Release\MaterialSkin.dll
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Release\Newtonsoft.Json.dll
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\bin\Release\Newtonsoft.Json.xml
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord Cache Backup.csprojAssemblyReference.cache
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord_Cache_Backup.Form1.resources
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord_Cache_Backup.Properties.Resources.resources
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord Cache Backup.csproj.GenerateResource.cache
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord Cache Backup.csproj.CoreCompileInputs.cache
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord Cache Backup.csproj.CopyComplete
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord Cache Backup.exe
+C:\Users\smashie420\source\repos\Discord Cache Backup\Discord Cache Backup\obj\Release\Discord Cache Backup.pdb

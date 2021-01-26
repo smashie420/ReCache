@@ -1,0 +1,6 @@
+2021/01/26-09:32:07.404 b60 Reusing MANIFEST C:\Users\smashie420\AppData\Roaming\discord\Local Storage\leveldb/MANIFEST-000001
+2021/01/26-09:32:07.405 b60 Recovering log #80
+2021/01/26-09:32:07.405 b60 Reusing old log C:\Users\smashie420\AppData\Roaming\discord\Local Storage\leveldb/000080.log 
+2021/01/26-09:33:08.833 366c Level-0 table #84: started
+2021/01/26-09:33:08.836 366c Level-0 table #84: 19500 bytes OK
+2021/01/26-09:33:08.838 366c Delete type=0 #80
