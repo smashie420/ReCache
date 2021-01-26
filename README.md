@@ -21,7 +21,6 @@
 </div>
     
 # FAQ
-  ##
   **Q:** Do i need the data.json file and /backup folder?<br>
   **A:** YES! Save those, they are all your cache and is required for a restore<br>
   <br>
